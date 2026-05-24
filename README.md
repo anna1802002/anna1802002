@@ -47,7 +47,6 @@
 ## 🚀 Featured Projects
 
 ### 💼 [EquityLens — AI Equity Research Platform](https://github.com/anna1802002/equitylens)
-**Live at [equitylens.vercel.app](https://equitylens.vercel.app)**
 
 Live AI agent that turns any stock ticker into a Wall Street-style equity research report (Buy/Hold/Sell, 12-month price target, bull/bear cases, risk score) in under 2 minutes. Built on a 5-stage LangGraph pipeline with a multi-agent investment committee (bull, bear, risk officer) reviewing every recommendation in parallel.
 
