@@ -2,7 +2,7 @@
 
 🎯 **AI Engineer & Analytics Engineer** | Building agentic AI systems and the data infrastructure behind them.
 
-📍 Boston, MA &nbsp;|&nbsp; Open to full-time **AI Engineer / Data Engineer / Analytics Engineer / Data Analyst** roles · Visa Sponsorship Welcome
+📍 Boston, MA &nbsp;|&nbsp; Open to full-time **AI Engineer / Data Engineer / Analytics Engineer / Data Analyst** roles 
 
 ---
 
